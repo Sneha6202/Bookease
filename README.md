@@ -4,9 +4,29 @@ It also allows book stall owners to manage inventory and handle customer reserva
 
 ## Live Demo
 
-- **Frontend:** https://bookease-kohl.vercel.app/
+- **Frontend:** https://bookease-kohl.vercel.app
 - **Backend:** https://bookease-86mf.onrender.com
 - **GitHub Repository:** https://github.com/Sneha6202/Bookease
+
+## Deployment Details
+
+- Frontend deployed on Vercel
+- Backend deployed on Render
+- Database hosted on Railway MySQL
+
+## Important Note
+
+The backend is hosted on Render free tier. If the service is inactive for some time, it may take around 30–60 seconds to respond on the first request.
+
+## How to Test
+
+1. Open the backend link first:  
+  https://bookease-86mf.onrender.com
+
+2. Wait a few seconds for the backend to wake up if needed.
+
+3. Then open the frontend link:  
+   https://bookease-kohl.vercel.app
 
 ## Features
 - User & Bookstall Registration/Login
