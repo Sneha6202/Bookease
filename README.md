@@ -1,6 +1,12 @@
 # BookEase
+BookEase is a full-stack web application that helps customers search, reserve, and manage books from local book stalls.  
+It also allows book stall owners to manage inventory and handle customer reservations efficiently.
 
-BookEase is a full-stack web application that allows users to search, reserve, and manage books from local book stalls.
+## Live Demo
+
+- **Frontend:** https://bookease-kohl.vercel.app/
+- **Backend:** https://bookease-86mf.onrender.com
+- **GitHub Repository:** https://github.com/Sneha6202/Bookease
 
 ## Features
 - User & Bookstall Registration/Login
